@@ -1,0 +1,33 @@
+.red {
+    color: red;
+}
+.error {
+    color: red;
+    font-size: 12.5px;
+}
+.vertical-middle {
+    vertical-align: middle !important;
+}
+.vertical-middle p {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+.count-child {
+    color: dodgerblue;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+}
+.count-child:hover{
+    cursor: pointer;
+    color:blue;
+}
+.child-numb {
+    color: white;
+    background-color: dodgerblue;
+    width: 1.5rem;
+    display: block;
+    height: 1.5rem;
+    border-radius: 4rem;
+    text-align: center;
+}
